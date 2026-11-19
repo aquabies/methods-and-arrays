@@ -1,7 +1,7 @@
 // november 17, 2026 | more arrays 
 import java.util.Scanner;
 
-public class GradeClassificaiton {
+public class GradeClassification {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int grades = input.nextInt();
